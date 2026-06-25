@@ -4,7 +4,7 @@ PackageIdentifier: CerberAuth.stubidp
 PackageVersion: 0.3.0
 InstallerLocale: en-US
 InstallerType: zip
-ReleaseDate: "2026-06-18"
+ReleaseDate: "2026-06-25"
 Installers:
   - Architecture: x64
     NestedInstallerType: portable
@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: stubidp.exe
         PortableCommandAlias: stubidp
     InstallerUrl: https://github.com/cerberauth/stubidp/releases/download/v0.3.0/stubidp_Windows_x86_64.zip
-    InstallerSha256: ea3b43a4ce543f524316aec457058f946d4fa27bf56b29296feb9baf6c57c79d
+    InstallerSha256: 4f4f79908dc7b776fc60ec122a7cdcbca977daec19562dd7342a3be80b4e92a2
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.12.0
